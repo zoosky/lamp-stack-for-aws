@@ -8,6 +8,8 @@ how a minimal Terraform project looks like in practice.
  <em>Figure 1: LAMP Stack architecture</em>
 </p>
 
+See [this article](https://www.heise.de/developer/artikel/Terraform-in-der-Praxis-LAMP-Stack-in-der-Cloud-3961117.html?seite=all) on the details.
+
 ## Requirements
 
 * AWS Account (there is [free tier](https://aws.amazon.com/free/) if you don't have an account yet)
